@@ -8,7 +8,7 @@
 
 ## 使い方
 
-1. kintoneシステム管理画面の「JavaScript / CSSでカスタマイズ」からJSファイルをアップロードして保存
+1. kintoneシステム管理画面の「JavaScript / CSSでカスタマイズ」から、`AILabPretender.js` をアップロードして保存
 2. kintoneポータル画面の設定メニュー（歯車アイコン）を開く
 3. 「kintone AI管理」という項目が表示されていることを確認する
 4. 心が満たされる
